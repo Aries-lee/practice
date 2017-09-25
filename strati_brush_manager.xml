@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strati_brush_manager default_schema="江家店-刘">
+	<schema schema_name="DEFAULT">
+		<schema_item name="ES1-BOT" order="4" brush_color="#43D9FF">
+			<title />
+		</schema_item>
+		<schema_item name="ES13" order="3" brush_color="#95FFFF">
+			<title />
+		</schema_item>
+		<schema_item name="ES2" order="1" brush_color="#FFDBB8">
+			<title />
+		</schema_item>
+		<schema_item name="NG" order="0" brush_color="#FFDEEE">
+			<title />
+		</schema_item>
+		<schema_item name="S3S1" order="2" brush_color="#BCF9BA">
+			<title />
+		</schema_item>
+		<schema_item name="S3S2" order="5" brush_color="#8CF983">
+			<title />
+		</schema_item>
+		<schema_item name="S3S3" order="6" brush_color="Lime">
+			<title />
+		</schema_item>
+		<schema_item name="S3Z1" order="7" brush_color="#D7D7D7">
+			<title />
+		</schema_item>
+		<schema_item name="S3Z2" order="8" brush_color="#E7D0FF">
+			<title />
+		</schema_item>
+		<schema_item name="S3Z3" order="9" brush_color="#D3A7FF">
+			<title />
+		</schema_item>
+	</schema>
+	<schema schema_name="KLMY">
+		<schema_item name="G1/2" order="1">
+			<title />
+		</schema_item>
+		<schema_item name="G2-1-2" order="2">
+			<title />
+		</schema_item>
+		<schema_item name="G2-2-2" order="3" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="G2-3-2" order="4" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="白垩系" order="0" brush_color="Aqua">
+			<title />
+		</schema_item>
+		<schema_item name="目的层下100m致密岩段" order="6" brush_color="#938953">
+			<title />
+		</schema_item>
+		<schema_item name="目的层下方致密岩段" order="5" brush_color="#7F7F7F">
+			<title />
+		</schema_item>
+	</schema>
+	<schema schema_name="KMB21">
+		<schema_item name="1" order="3" brush_color="#BFBFBF">
+			<title />
+		</schema_item>
+		<schema_item name="2" order="4" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="3" order="5" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="B1" order="0" brush_color="#BFBFBF">
+			<title />
+		</schema_item>
+		<schema_item name="B2" order="1">
+			<title />
+		</schema_item>
+		<schema_item name="B3" order="2">
+			<title />
+		</schema_item>
+	</schema>
+	<schema schema_name="江家店">
+		<schema_item name="1" order="9" brush_color="#DBE5F1">
+			<title />
+		</schema_item>
+		<schema_item name="2" order="10" brush_color="#F2DCDB">
+			<title />
+		</schema_item>
+		<schema_item name="3" order="11" brush_color="#D7E3BC">
+			<title />
+		</schema_item>
+		<schema_item name="4" order="12" brush_color="#FDEADA">
+			<title />
+		</schema_item>
+		<schema_item name="5" order="13" brush_color="#92CDDC">
+			<title />
+		</schema_item>
+		<schema_item name="东营" order="4" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="馆陶" order="3" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙二上" order="6" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙二下" order="7" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙三上" order="0" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙三下" order="2" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙三中" order="1" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙四" order="8" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="沙一" order="5" brush_color="White">
+			<title />
+		</schema_item>
+		<schema_item name="油页岩" order="14" brush_color="#A5A5A5">
+			<title />
+		</schema_item>
+	</schema>
+	<schema schema_name="江家店-刘">
+		<schema_item name="Ed" order="1" brush_color="#FFC000">
+			<title />
+		</schema_item>
+		<schema_item name="Es1" order="2" brush_color="#BFBFBF">
+			<title />
+		</schema_item>
+		<schema_item name="Es2上" order="3" brush_color="#FAC08F">
+			<title />
+		</schema_item>
+		<schema_item name="Es2下" order="4" brush_color="#92D050">
+			<title />
+		</schema_item>
+		<schema_item name="Es3上" order="5" brush_color="#E5E0EC">
+			<title />
+		</schema_item>
+		<schema_item name="Es3下" order="7" brush_color="#938953">
+			<title />
+		</schema_item>
+		<schema_item name="Es3中" order="6" brush_color="#D7E3BC">
+			<title />
+		</schema_item>
+		<schema_item name="Es4上(纯下" order="8" brush_color="#F2DCDB">
+			<title />
+		</schema_item>
+		<schema_item name="Es4下" order="9" brush_color="#FBD5B5">
+			<title />
+		</schema_item>
+		<schema_item name="Ng" order="0" brush_color="#C6D9F0">
+			<title />
+		</schema_item>
+		<schema_item name="Nm" order="10" brush_color="#E5B8B7">
+			<title />
+		</schema_item>
+	</schema>
+</strati_brush_manager>
